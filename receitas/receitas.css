@@ -1,0 +1,12 @@
+.div-container {
+    display: flex;
+    padding: 8px;
+    justify-content: start;
+    gap: 16px;
+
+    width: 100%;
+}
+
+.card-text{
+    text-align: justify;
+}
